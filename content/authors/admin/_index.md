@@ -24,6 +24,7 @@ interests:
 - Artificial Intelligence
 - Computational Neurobiology
 - Quantum Physics
+- Sports
 
 education:
   courses:
@@ -73,4 +74,4 @@ user_groups:
 #- Visitors
 ---
 
-Jonathan Lieberman is a data science consultant at Accenture and a student in Georgia Tech's Online Master's of Computer Science program.
+Jonathan Lieberman is a consultant at Accenture focused on helping clients leverage Artificial Intelligence at scale. He is also currently completing a Master's of Computer Science at Georgia Tech. He holds degrees in Applied Mathematics and Economics from Northwestern where he swam DI and competed at the 2016 US Olympic Trials.
