@@ -41,11 +41,11 @@ date_format = "Jan 2006"
   date_start = "2019-03-06"
   date_end = ""
   description = """
-  Lead Machine Learning Engineer - _Tech Company_
+  Lead Machine Learning Engineer - _Tech Company_ - Basking Ridge, NJ
 
-  Lead Data Scientist and Data Engineer - _Tech Company_
+  Lead Data Scientist and Data Engineer - _Tech Company_ - Philadelphia, PA
 
-  Lead Data Scientist - _Tech Company_
+  Lead Data Scientist - _Tech Company_ - San Francisco, CA
   """
 
 +++
