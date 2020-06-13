@@ -41,11 +41,11 @@ date_format = "Jan 2006"
   date_start = "2019-03-06"
   date_end = ""
   description = """
-  Lead Machine Learning Engineer - _Verizon_
+  Lead Machine Learning Engineer - _Tech Company_
 
-  Lead Data Scientist and Data Engineer - _Comcast_
+  Lead Data Scientist and Data Engineer - _Tech Company_
 
-  Lead Data Scientist - _Salesforce_
+  Lead Data Scientist - _Tech Company_
   """
 
 +++
