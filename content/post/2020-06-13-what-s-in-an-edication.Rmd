@@ -4,7 +4,7 @@ author: ~
 date: '2020-06-13'
 slug: what-s-in-an-edication
 categories: []
-tags: []
+tags: ["Education"]
 subtitle: ''
 summary: ''
 authors: []
@@ -16,3 +16,4 @@ image:
   preview_only: no
 projects: []
 ---
+
