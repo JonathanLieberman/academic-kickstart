@@ -1,5 +1,5 @@
 ---
-title: What's in an Edication?
+title: What's in an Education?
 author: ~
 date: '2020-06-13'
 slug: what-s-in-an-edication
