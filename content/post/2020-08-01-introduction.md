@@ -17,3 +17,7 @@ image:
 projects: []
 ---
 
+## Who am I?
+
+## Why am I writing?
+
