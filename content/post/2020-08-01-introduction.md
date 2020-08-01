@@ -17,8 +17,6 @@ image:
 projects: []
 ---
 
-## Who am I?
-
 sample text
 
 ## Why am I writing?
