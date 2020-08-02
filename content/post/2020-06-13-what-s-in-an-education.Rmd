@@ -44,7 +44,8 @@ Nanodegree programs offer many of the same lecture benefits that flipped classes
 
 ## Modularity is efficiency
 
-One of the best qualities of a good computer scientist is the ability to write modular code. This means code is written in a way were swapping concepts in and out is quick and easy. I believe the current education (at least for STEM majors), could do with a restructuring 
+One of the best qualities of a good Software Engineer is the ability to write modular code. This means code is written in a way were swapping concepts in and out is quick and easy. Most college curriculum revolves around some sort of quarter/trimester/semester system. While this is likely due to legacy reasons and syncronization across classes/majors, I do not believe this necessarily lines up with how long it takes to learn the fundamentals of any concept. This means I believe the current education (at least for STEM majors), could do with restructuring.
+
 The value of consulting firms comes from its people. In simple terms, consulting is merely the selling of work and the completion of work. This means every external facing employee at the company brings a mix of talent and relationships. Relationships are built 
 
-But what do Bill Gates, Steve Jobs and Mark Zuckerberg have in common? They are college dropouts.
+But what do Bill Gates, Steve Jobs, and Mark Zuckerberg have in common? They are college dropouts.
