@@ -22,7 +22,8 @@ bio: In the constant pursuit of knowledge
 
 interests:
 - Artificial Intelligence
-- Computational Neurobiology
+- Cloud Computing
+- DevOps
 - Quantum Physics
 - Sports
 
