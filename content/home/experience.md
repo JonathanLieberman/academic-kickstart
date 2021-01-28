@@ -41,6 +41,8 @@ date_format = "Jan 2006"
   date_start = "2019-03-06"
   date_end = ""
   description = """
+  Principal Cloud Architect and Data Engineer - _Utilities Company_ - San Diego, CA
+
   Lead Machine Learning Engineer - _Tech Company_ - Basking Ridge, NJ
 
   Lead Data Scientist and Data Engineer - _Tech Company_ - Philadelphia, PA
