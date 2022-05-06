@@ -75,4 +75,4 @@ user_groups:
 #- Visitors
 ---
 
-Jonathan Lieberman is a consultant at Accenture focused on helping clients leverage Artificial Intelligence at scale. He is currently completing a Master's of Computer Science at Georgia Tech. Jonathan holds degrees in Applied Mathematics and Economics from Northwestern where he swam DI and competed at the 2016 US Olympic Trials.
+Jonathan Lieberman is an MLOps consultant at Accenture focused on helping clients leverage Artificial Intelligence at scale. Jonathan holds a Master's degree in of Computer Science from Georgia Tech and Bachelor's degrees in Applied Mathematics and Economics from Northwestern where he swam DI and competed at the 2016 US Olympic Trials. Jonathan is also a certified AWS Architect and Machine Learning Specialist.
