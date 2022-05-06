@@ -31,7 +31,7 @@ education:
   courses:
   - course: MS in Computer Science
     institution: Georgia Institute of Technology
-    year: Current
+    year: 2022
   - course: BS Applied Mathematics 
     institution: Northwestern University
     year: 2017
