@@ -15,7 +15,7 @@ image:
   focal_point: ''
   preview_only: no
 projects: []
-draft: false
+draft: true
 ---
 
 When I was young, my dad always said, “Finish high school, graduate college, get a job, get married, and have kids. I do not care when they happen, but they need to be in that order.” I was fortunate to grow up with 2 happily married parents who both had high school diplomas, college degrees, and launched successful careers. My dad’s words made sense, so I set off to follow my parents’ footsteps.
