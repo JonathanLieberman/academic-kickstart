@@ -9,7 +9,7 @@ subtitle: ''
 summary: ''
 authors: []
 lastmod: '2025-01-27T08:28:16-05:00'
-featured: no
+featured: yes
 image:
   caption: ''
   focal_point: ''
@@ -19,17 +19,17 @@ projects: []
 
 ## What is DeepSeek
 
-Big market moves gather a lot of attention. It’s impossible to work in the AI field and not talk about DeepSeek today. From investors to developers to AI users, it seems like everyone has questions about DeepSeek and how this will impact AI markets and future AI investments.
+Big market moves gather a lot of attention. It's impossible to work in the AI field and not talk about DeepSeek today. From investors to developers to AI users, it seems like everyone has questions about DeepSeek and how this will impact AI markets and future AI investments.
 
 I took the time to gather my thoughts about AI and the markets today based on recent conversations, listening to the experts I follow, and personal experience.
 
-Starting with facts, the DeepSeek model performs extremely well against benchmarks, beating the incumbent best models (OpenAI’s subscription-based models)[1]. The DeepSeek models are available through iOS App Store and Google Play Store, and the team claims to have trained the model for under $6M on NVIDIA’s less advanced H-800 Chips [2]. DeepSeek has open sourced these models, and there are already guides on how to get the models running locally or on your own server [3]. With OpenAI pushing a new Project Stargate [4] in collaboration with the US Government and others, markets are spooking out about how a State-of-the-Art (SoTA) model could be created with inferior hardware, at a fraction of the cost of major AI players like OpenAI and Anthropic. On to the analysis…
+Starting with facts, the DeepSeek model performs extremely well against benchmarks, beating the incumbent best models (OpenAI's subscription-based models)[1]. The DeepSeek models are available through iOS App Store and Google Play Store, and the team claims to have trained the model for under $6M on NVIDIA's less advanced H-800 Chips [2]. DeepSeek has open sourced these models, and there are already guides on how to get the models running locally or on your own server [3]. With OpenAI pushing a new Project Stargate [4] in collaboration with the US Government and others, markets are spooking out about how a State-of-the-Art (SoTA) model could be created with inferior hardware, at a fraction of the cost of major AI players like OpenAI and Anthropic. On to the analysis…
 
 ## Key Takeaways
 
 * AI compute may be less important than we previously thought, or it could just be a second mover advantage
 * The AI model ecosystem continues to saturate, leaving less and less room for companies to monetize their LLMs
-On the investment front, stocks are dropping because there is a concern AI is not going to be as hungry for chips if a country like China can build and run an AI system without access to the SoTA NVIDIA chips given NVIDIA’s dominance for model training and inference hardware designs.
+On the investment front, stocks are dropping because there is a concern AI is not going to be as hungry for chips if a country like China can build and run an AI system without access to the SoTA NVIDIA chips given NVIDIA's dominance for model training and inference hardware designs.
 
 ## The AI Investment Stack
 
@@ -43,13 +43,13 @@ Something to note with AI investments is that not all companies operate on the s
 
 Each of the layers at this stack serves a purpose for building, deploying, and maintaining AI solutions, but not each level has the same amount of competition, and many layers run a risk of competing away any ability for companies to build a moat and capture profit.
 
-Some of the bear arguments in the market are that if China can train a model without SoTA NVIDIA chips, then NVIDIA’s moat for AI Chip Design isn’t as big as the markets thought, AI Model Development/Ownership is less important since anyone could train these models with less compute power, and AI Model Hosting Data Centers will have less demand since China can build and host the model without SoTA NVIDIA GPUs. In my opinion, this doesn’t have a ton of impact on the AI Model Hosting Services since it’s just another proprietary model being hosted, and that market already has thin margins (e.g. lots of AI Startups that wrap a simple app into calls to ChatGPT).
+Some of the bear arguments in the market are that if China can train a model without SoTA NVIDIA chips, then NVIDIA's moat for AI Chip Design isn't as big as the markets thought, AI Model Development/Ownership is less important since anyone could train these models with less compute power, and AI Model Hosting Data Centers will have less demand since China can build and host the model without SoTA NVIDIA GPUs. In my opinion, this doesn't have a ton of impact on the AI Model Hosting Services since it's just another proprietary model being hosted, and that market already has thin margins (e.g. lots of AI Startups that wrap a simple app into calls to ChatGPT).
 
 There are some notable things coming from DeepSeek, their announcements, and their whitepaper.
 
-* When I say “without NVIDIA GPUs” it should be read as “without a meaningful amount of SoTA NVIDIA GPUs.” China does have ways around the embargo [5]. We may not know the full extent, but if China said they used SoTA NVIDIA GPUs, it would certainly call for an investigation on how they circumvented the sanctions, so we likely won’t know how many were used for training and are used for inference.
+* When I say “without NVIDIA GPUs” it should be read as “without a meaningful amount of SoTA NVIDIA GPUs.” China does have ways around the embargo [5]. We may not know the full extent, but if China said they used SoTA NVIDIA GPUs, it would certainly call for an investigation on how they circumvented the sanctions, so we likely won't know how many were used for training and are used for inference.
 * The DeepSeek whitepaper [1] published alongside the model calls out specific things the company has built upon on top of existing published research. There is a second mover advantage for the costs to build advanced technology since researchers often must try several different training and data preparation/gathering techniques before they can discover new methods to build AI systems. These discoveries are often published as whitepapers to give credibility to new models. This experimentation is very compute intensive since you are often training multiple AI models for varying amounts of time. It is clear DeepSeek leveraged many lessons learned which not only saved them on compute needs, but allowed them to bring in their own step of innovation for reinforcement learning (the same technique that turned generic LLMs into the useful ChatGPT like models we have today) to get SoTA performance.
-* Some DeepSeek users claim there are instances where DeepSeek will tell you it is an OpenAI model [6]. If these are valid claims, there is evidence to believe DeepSeek is leveraging OpenAI data and/or technology. At a minimum this would imply that OpenAI responses were scraped from the internet and used for training DeepSeek, likely with an emphasis on the reinforcement learning. This could go all the way up to China having stolen OpenAI technology (I’m personally not putting much into this given OpenAI’s models are so compute intensive [7])
+* Some DeepSeek users claim there are instances where DeepSeek will tell you it is an OpenAI model [6]. If these are valid claims, there is evidence to believe DeepSeek is leveraging OpenAI data and/or technology. At a minimum this would imply that OpenAI responses were scraped from the internet and used for training DeepSeek, likely with an emphasis on the reinforcement learning. This could go all the way up to China having stolen OpenAI technology (I'm personally not putting much into this given OpenAI's models are so compute intensive [7])
 
 My personal take is that it is very unlikely that this model would exist without NVIDIA chips, but it puts negative pressure on the ability for companies to create moats within Model Development/Ownership. I think the markets are overreaching in the AI Chip Design level, and this puts companies like OpenAI whose business model relies on being at the forefront of Model Development and can only fund AI innovation with external cash and not as an investment within a large cap tech company in a tough position.
 
